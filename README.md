@@ -1,6 +1,6 @@
 # 30-Days-Of-Code
 
-30 Days of Code is one very nice and way of practicing a new programming language you are learning. Lets see how far I go with this :upside_down_face:
+30 Days of Code is a very nice and fun way of learning a new programming language. Sometimes learning a new language, especially with a new paradigm than the one you know, can be quite difficult. 30 Days of Code has got you covered in that department. Even if it isn't hard, who doesn't want to have fun. Lets see how far I go with this :upside_down_face:
 
 # Languages so far:
 - None unfortunately
