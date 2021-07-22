@@ -7,3 +7,6 @@
 
 # Structure
 So every language has a separate directory for it. Within this directory are sub-directories foro each day. Each sub-directory contains a README.md file explaining some stuff about the code
+
+# Contribution
+Please follow the structure above
